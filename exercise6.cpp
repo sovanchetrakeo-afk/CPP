@@ -11,7 +11,7 @@ int main(){
     case 'D': cout<<"Fair\n"; break;
     case 'E': cout<<"Poor\n"; break;
     case 'F': cout<<"Fail\n"; break;
-    default : cout<<"Needs improvement\n";
+    default : cout<<"Invalid Grade\n";
    }
    return 0;
 }
